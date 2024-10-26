@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lior 🧑🏻‍💻
 
-- 👨🏻‍🎓 3nd year B.Sc. Software engineering student at Afeka - The Academic College of Engineering in Tel Aviv 
+- 👨🏻‍🎓 4rd year B.Sc. Software engineering student at Afeka - The Academic College of Engineering in Tel Aviv 
 
 ## My Skill Set
 
