@@ -21,6 +21,16 @@
 
 <br/>  
 
+## 📊 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lioravraham5&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lioravraham5&layout=compact&theme=dark)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=lioravraham5&theme=default)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ## Connect with me
 <a href="https://www.linkedin.com/in/lior-avraham-468796247/" target="_blank"><img style="margin-bottom: 5px" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin /></a>
 <a href="https://github.com/Lioravraham5" target="_blank"><img style="margin-bottom: 5px" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github /></a>
