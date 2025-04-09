@@ -22,9 +22,9 @@
 <br/>  
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lioravraham5&show_icons=true&theme=dark&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lioravraham5&show_icons=true&theme=default&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lioravraham5&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lioravraham5&layout=compact&theme=default)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=lioravraham5&theme=default)](https://github.com/ryo-ma/github-profile-trophy)
