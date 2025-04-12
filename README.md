@@ -33,4 +33,4 @@
 
 ## 🤝 Connect with me
 <a href="https://www.linkedin.com/in/lior-avraham-468796247/" target="_blank"><img style="margin-bottom: 5px" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin /></a>
-<a href="https://github.com/Lioravraham5" target="_blank"><img style="margin-bottom: 5px" src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github /></a>
+
